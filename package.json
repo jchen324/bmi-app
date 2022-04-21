@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jchen324/bmi-app/issues"
   },
-  "homepage": "https://github.com/jchen324/bmi-app#readme"
+  "homepage": "https://github.com/jchen324/bmi-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
